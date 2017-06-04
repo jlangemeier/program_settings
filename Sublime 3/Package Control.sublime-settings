@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Colorsublime",
+		"Djaneiro",
+		"Material Theme",
+		"Package Control",
+		"PostgreSQL Syntax Highlighting",
+		"PowerShell",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeREPL"
+	]
+}

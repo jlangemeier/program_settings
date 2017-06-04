@@ -1,0 +1,18 @@
+{
+	"auto_indent": true,
+	"extensions":
+	[
+		"py"
+	],
+	"rulers":
+	[
+		79,
+		89,
+		119
+	],
+	"smart_indent": true,
+	"tab_size": 4,
+	"word_wrap": false,
+	"trim_automatic_white_space": true,
+	"use_tab_stops": true
+}
